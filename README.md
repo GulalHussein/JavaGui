@@ -12,10 +12,10 @@
 #======================================
 #To set up a Java project, follow these steps:
 #
-# Right-click on your project in the Package Explorer.
-# Go to "Build Path" -> "Configure Build Path."
-# In the "Libraries" tab, make sure that the necessary JRE System Library is included. If not, click "Add Library" and select the appropriate JRE.
-# Apply the changes and rebuild your project.
+#1 Right-click on your project in the Package Explorer.
+#2 Go to "Build Path" -> "Configure Build Path."
+#3 In the "Libraries" tab, make sure that the necessary JRE System Library is included. If not, click "Add Library" and select the appropriate JRE.
+#4 Apply the changes and rebuild your project.
 #
 #================
 # 
