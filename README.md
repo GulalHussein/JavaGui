@@ -26,7 +26,10 @@
 #Window > Preferences > General > Editors > Text Editors > Spelling > Enable  spell checking ruashacken. Somit werden die Kommentare in Eclipse nicht mehr rot markiert.
 
 #
-#
+#        		//Usabiliy
+#        		tfFahrenheit.requestFocus();
+#       		tfFahrenheit.selectAll();
+
 #
 #
 #
