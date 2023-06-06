@@ -30,7 +30,8 @@
 #        		tfFahrenheit.requestFocus();
 #       		tfFahrenheit.selectAll();
 
-#
+#Bei Discord wenn der Text richtig lang ist, wird vorgeschlagen entweder Intro upgrade oder als Datei hochladen. Wenn man auch als Datei hochladen klickt, wird die Nachricht automatisch als Datei hochgeladen.
+
 #
 #
 #
