@@ -10,6 +10,7 @@
 #        });
 #
 #======================================
+#
 #To set up a Java project, follow these steps:
 #
 #1 Right-click on your project in the Package Explorer.
